@@ -12,7 +12,7 @@ import java.util.List;
  * Creation date: 07/09/2023
  */
 @Entity
-@Table(name = "order")
+@Table(name = "t_orders")
 @Getter
 @Setter
 @NoArgsConstructor
